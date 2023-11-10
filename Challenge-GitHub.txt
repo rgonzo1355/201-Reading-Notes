@@ -1,0 +1,40 @@
+# Ops 201 Scripting and Automation Challenges
+
+## What is this repo all about?
+This repository contains the solutions to the scripting and automation challenges for Ops 201. The challenges cover a range of tasks related to shell scripting and automation, designed to reinforce the skills learned throughout the course.
+
+## Why are you learning these skills?
+The purpose of learning these skills is to enhance proficiency in operations and system administration. Scripting and automation play a crucial role in incorporating repetitive tasks, improving efficiency, and maintaining system reliability.
+
+## What fundamental concepts did you learn in Ops 201?
+Ops 201 introduced fundamental concepts that I got to learn such as:
+- Shell scripting basics
+- Automation techniques
+- Task scheduling
+- System monitoring and logging
+- Error handling and troubleshooting
+
+## What was your favorite Ops Challenge assignment and why?
+My favorite Ops Challenge assignment was the "System Information Overview" Challenge 6 script. It involved utilizing powerful shell commands such as `grep` and `awk` in conjunction with pipes to filter and format detailed hardware information. This assignment challenged me to consolidate various skills and provided a practical application of complex command-line tools.
+
+## How can these examples of shell scripting be applied to the workplace?
+The examples of shell scripting in this repository can be applied in the workplace to:
+- Automate routine system maintenance tasks
+- Create efficient backup and recovery processes
+- Monitor system health and performance
+- Standardize and automate deployment procedures
+- Enhance overall system security through automated scripts
+
+## What scripts would you continue to improve if you had the time?
+Given more time, I would focus on improving the following scripts:
+1. **Domain Analyzer Script:** Enhance error handling and logging for better troubleshooting. Optimize for scalability and performance.
+2. **Challenge - Functions Script:** Improve user interaction by adding more prompts and options. Enhance the readability of the login history output.
+3. **System Information Overview Script:** Extend the script to include additional hardware components. Improve formatting for better readability.
+
+## What aspect of your shell scripting skillset do you hope to improve next?
+In my next steps, I aim to improve my scripting skills in the following areas:
+- Advanced data parsing and manipulation in scripts
+- Integration of scripts with cloud services and APIs
+- I would like to know how more  about how to use clud computing.
+
+
